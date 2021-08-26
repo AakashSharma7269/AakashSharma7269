@@ -1,11 +1,10 @@
 <h1 align='center'> Hi! :wave:</h1>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=AakashSharma7269&count_private=true&theme=gruvbox&show_icons=true"  height="500">
+    <img src="https://github-readme-stats.vercel.app/api?username=AakashSharma7269&count_private=true&theme=gruvbox&show_icons=true"  height="200">
   </a>
-  <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AakashSharma7269&count_private=true&theme=gruvbox&show_icons=true"  height="500">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AakashSharma7269&count_private=true&theme=gruvbox&show_icons=true"  height="200">
   </a>
   <br>
 </p>
