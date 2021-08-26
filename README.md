@@ -9,6 +9,9 @@
   <br>
 </p>
 
+<img alt="Python" src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" class="center">
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" class="center">
+
 <h1 align="center">
   <a href="https://raw.githubusercontent.com/AakashSharma7269/AakashSharma7269/main/ShinyzenithPubKey.gpg ">
   My gpg key!
