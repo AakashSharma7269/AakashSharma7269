@@ -9,9 +9,9 @@
   <br>
 </p>
 
-<p align="center">
+<h1 align="center">
   <a href="https://raw.githubusercontent.com/AakashSharma7269/AakashSharma7269/main/ShinyzenithPubKey.gpg ">
   My gpg key!
   </a>
   <br>
-</p>
+</h1>
