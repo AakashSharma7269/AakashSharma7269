@@ -1,4 +1,5 @@
+<h1 align='center'> Hi! :wave:</h1>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AakashSharma7269&count_private=true&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![idk.](https://github.com/AakashSharma7269/AakashSharma7269/blob/main/tumblr_2d6af3301f77e431a0c5f7878199c817_6daf8ce5_540.gif?raw=true)](https://www.discord.gg/davie504)
 
 https://raw.githubusercontent.com/AakashSharma7269/AakashSharma7269/main/ShinyzenithPubKey.gpg my gpg key
