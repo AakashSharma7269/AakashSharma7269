@@ -7,6 +7,12 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-lang?username=AakashSharma7269&count_private=true&theme=gruvbox&show_icons=true"  height="165">
+  </a>
+  <br>
+</p>
+<p align="center">
   <a href="https://raw.githubusercontent.com/AakashSharma7269/AakashSharma7269/main/ShinyzenithPubKey.gpg ">
   My gpg key!
   </a>
